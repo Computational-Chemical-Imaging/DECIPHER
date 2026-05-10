@@ -54,6 +54,10 @@ Pixel-wise unmixing methods are provided to decompose hyperspectral images into 
 
 Detailed instructions for using DECIPHER are provided in the associated manuscript/protocol, including step-by-step workflows, recommended parameters, example datasets, and troubleshooting guidance.
 
+## Questions and Issues
+
+For questions, bug reports, or requests for clarification, please contact the author at linhaonan11@gmail.com
+
 All the data for demonstration are available at https://doi.org/10.6084/m9.figshare.31014862
 
 This repository provides the scripts and supporting files needed to implement the DECIPHER analysis pipeline. Users should refer to the manuscript for detailed usage instructions and use the corresponding scripts in this repository for each analysis step.
