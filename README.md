@@ -10,7 +10,7 @@ Vibrational hyperspectral imaging provides rich chemical information from biolog
 </p>
 
 <p align="left">
-  <b>Overview of the DECIPHER workflow for vibrational hyperspectral image analysis.</b> Three representative workflows are shown for SRS, CARS, and MIP hyperspectral image unmixing. The workflow is organized into four stages: image denoising and artifact correction, background removal, basis spectra identification, and spectral unmixing. Dashed boxes indicate optional or data-dependent steps, whereas solid boxes indicate standard workflow components
+  <b>Figure. Overview of the DECIPHER workflow for vibrational hyperspectral image analysis.</b> Three representative workflows are shown for SRS, CARS, and MIP hyperspectral image unmixing. The workflow is organized into four stages: image denoising and artifact correction, background removal, basis spectra identification, and spectral unmixing. Dashed boxes indicate optional or data-dependent steps, whereas solid boxes indicate standard workflow components
 </p>
 
 The pipeline includes tools for:
